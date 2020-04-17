@@ -1,0 +1,21 @@
+<html>
+
+	<script>
+		function myFunction() {													<!-- gets the name from the text box "userName" and greets the user-->
+			var string1 = "Hello, ";
+			var string2 = document.forms["myForm"]["userName"].value;
+			if (string2 == "")
+				alert("Please enter your name.");
+			else
+				alert(string1 + string2);
+		}
+	</script>
+	
+	<body>
+		<form name="myForm">
+			What is your name? <input type="text" name="userName">
+			<button onclick="myFunction();">Click Me!</button>
+		</form>
+	</body>
+
+</html>

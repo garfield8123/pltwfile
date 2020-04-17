@@ -1,0 +1,5 @@
+4/14/2020 9:50:37 AM - Application starting
+4/14/2020 9:50:37 AM - Windir: C:\WINDOWS
+4/14/2020 9:50:37 AM - Aircrack-ng GUI v1.0.0.10
+4/14/2020 9:52:22 AM - Launch command: "E:\PLTW\software\aircrack-ng-1.6-win\aircrack-ng-1.6-win\bin\aircrack-ng.exe" -a 1 -n 128 -s -w ,"E:\PLTW\Activity 3.3.4\wordlist.txt" "E:\PLTW\Activity 3.3.4\wireless.pcap"
+4/14/2020 9:53:22 AM - Application closing
